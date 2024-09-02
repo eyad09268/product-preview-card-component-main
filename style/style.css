@@ -44,7 +44,7 @@ p{
     border-top-left-radius: 1em;
     border-top-right-radius: 1em;
     background-size: cover;
-    background-image: url(/images/image-product-desktop.jpg);
+    background-image: url(https://raw.githubusercontent.com/eyad09268/product-preview-card-component-main/main/images/image-product-desktop.jpg);
 }
 .price{
     display: flex;
